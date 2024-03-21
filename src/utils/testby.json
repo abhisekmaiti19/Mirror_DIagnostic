@@ -1,0 +1,210 @@
+{
+    "data": [
+      {
+        "name": "Intestine",
+        "tests": [
+          "- Upper GI Series",
+          "- Lower GI Series (Barium Enema)",
+          "- Endoscopy (Esophagogastroduodenoscopy, Colonoscopy)",
+          "- Stool Tests (Stool Culture, Fecal Occult Blood Test)",
+          "- Capsule Endoscopy",
+          "- Enterography (Small Bowel)",
+          "- Anorectal Manometry",
+          "- Colorectal Transit Study",
+          "- Sigmoidoscopy",
+          "- Gastric Emptying Study"
+        ]
+      },
+      {
+        "name": "Kidney",
+        "tests": [
+          "- Urinalysis",
+          "- Renal Function Tests (Creatinine Clearance)",
+          "- Kidney Biopsy",
+          "- CT Scan (Kidneys, Ureters, Bladder)",
+          "- Intravenous Pyelogram (IVP)",
+          "- Kidney Ultrasound",
+          "- Renal Artery Doppler Ultrasound",
+          "- Renal Angiography",
+          "- Protein Creatinine Ratio",
+          "- Kidney Stone Analysis"
+        ]
+      },
+      {
+        "name": "Liver",
+        "tests": [
+          "- Liver Function Tests (ALT, AST, Bilirubin)",
+          "- Liver Biopsy",
+          "- Hepatic Ultrasound",
+          "- CT Scan (Liver)",
+          "- MRI (Liver)",
+          "- FibroScan (Transient Elastography)",
+          "- Hepatobiliary Scintigraphy",
+          "- Liver Angiography",
+          "- Gamma-Glutamyl Transferase (GGT) Test",
+          "- Alpha-Fetoprotein (AFP) Test"
+        ]
+      },
+      {
+        "name": "Pancreas",
+        "tests": [
+          "- Amylase Test",
+          "- Lipase Test",
+          "- Pancreatic Function Tests (Fecal Elastase)",
+          "- CT Scan (Pancreas)",
+          "- MRI (Pancreas)",
+          "- Endoscopic Retrograde Cholangiopancreatography (ERCP)",
+          "- Endoscopic Ultrasound (EUS)",
+          "- Secretin Stimulation Test",
+          "- Pancreatic Biopsy",
+          "- Serum Trypsinogen Test"
+        ]
+      },
+      {
+        "name": "Reproductive",
+        "tests": [
+          "- Pap Smear",
+          "- Mammogram",
+          "- PSA Test (Prostate-Specific Antigen)",
+          "- Hysterosalpingography (HSG)",
+          "- Ovarian Reserve Testing (FSH, AMH)",
+          "- Testicular Ultrasound",
+          "- Transvaginal Ultrasound",
+          "- Hormone Tests (Progesterone, LH)",
+          "- Endometrial Biopsy",
+          "- Follicle-Stimulating Hormone (FSH) Test",
+          "- Pap Smear",
+          "- Mammogram",
+          "- PSA Test (Prostate-Specific Antigen)",
+          "- Hysterosalpingography (HSG)",
+          "- Ovarian Reserve Testing (FSH, AMH)",
+          "- Testicular Ultrasound",
+          "- Transvaginal Ultrasound",
+          "- Hormone Tests (Progesterone, LH)",
+          "- Endometrial Biopsy",
+          "- Follicle-Stimulating Hormone (FSH) Test"
+        ]
+      },
+      {
+        "name": "Stomach",
+        "tests": [
+          "- Upper GI Series",
+          "- Endoscopy (Esophagogastroduodenoscopy)",
+          "- Gastric Emptying Study",
+          "- Helicobacter pylori Tests (Breath Test, Stool Test)",
+          "- Gastric Acid Secretion Test",
+          "- Gastric Biopsy",
+          "- Gastrointestinal Motility Studies",
+          "- Gastric Ultrasound",
+          "- Gastric pH Monitoring",
+          "- Gastrointestinal Hormone Tests (Gastrin, Ghrelin)"
+        ]
+      },
+      {
+        "name": "Thyroid",
+        "tests": [
+          "- Thyroid Function Tests (TSH, T3, T4)",
+          "- Thyroid Ultrasound",
+          "- Thyroid Scan (Radioiodine Uptake)",
+          "- Fine-Needle Aspiration (FNA) Biopsy",
+          "- Thyroid Antibody Tests (TPOAb, TgAb)",
+          "- Thyroid Stimulating Immunoglobulin (TSI) Test",
+          "- Thyroid Peroxidase (TPO) Antibody Test",
+          "- Calcitonin Test",
+          "- Thyroglobulin Test",
+          "- Thyroid Hormone Resistance Test"
+        ]
+      },
+      {
+        "name": "Blood",
+        "tests": [
+          "- Complete Blood Count (CBC)",
+          "- Blood Chemistry Panel",
+          "- Coagulation Tests (PT, APTT)",
+          "- Blood Glucose Tests",
+          "- Lipid Panel",
+          "- Blood Culture",
+          "- Blood Typing",
+          "- Blood Urea Nitrogen (BUN)",
+          "- Creatinine Test",
+          "- Liver Function Tests (ALT, AST)"
+        ]
+      },
+      {
+        "name": "Cardiovascular",
+        "tests": [
+          "- Electrocardiogram (ECG/EKG)",
+          "- Echocardiogram",
+          "- Stress Test (Treadmill Test)",
+          "- Holter Monitor",
+          "- Cardiac Catheterization",
+          "- Angiography",
+          "- Doppler Ultrasound",
+          "- Lipid Profile",
+          "- Troponin Test",
+          "- Brain Natriuretic Peptide (BNP) Test"
+        ]
+      },
+      {
+        "name": "Respiratory",
+        "tests": [
+          "- Chest X-ray",
+          "- Pulmonary Function Tests (Spirometry)",
+          "- Arterial Blood Gas (ABG) Analysis",
+          "- Bronchoscopy",
+          "- Sputum Culture",
+          "- CT Scan (Chest)",
+          "- Peak Flow Measurement",
+          "- Lung Biopsy",
+          "- Ventilation/Perfusion Scan",
+          "- Bronchial Provocation Tests"
+        ]
+      },
+      
+      {
+        "name": "Urinary",
+        "tests": [
+          "- Urinalysis",
+          "- Urine Culture",
+          "- Renal Function Tests (Creatinine Clearance)",
+          "- Urine Cytology",
+          "- Cystoscopy",
+          "- Kidney Biopsy",
+          "- CT Scan (Kidneys, Ureters, Bladder)",
+          "- Intravenous Pyelogram (IVP)",
+          "- Urine Electrolytes",
+          "- Protein Creatinine Ratio"
+        ]
+      },
+      {
+        "name": "Nervous",
+        "tests": [
+          "- MRI (Magnetic Resonance Imaging)",
+          "- CT Scan (Computed Tomography)",
+          "- EEG (Electroencephalogram)",
+          "- EMG (Electromyography)",
+          "- Nerve Conduction Studies",
+          "- Lumbar Puncture",
+          "- Myelogram",
+          "- PET Scan (Positron Emission Tomography)",
+          "- Doppler Ultrasound (Carotid)",
+          "- Evoked Potentials"
+        ]
+      },
+      {
+        "name": "Immune",
+        "tests": [
+          "- White Blood Cell Count",
+          "- Immunoglobulin Levels",
+          "- Autoimmune Disease Testing (ANA, Rheumatoid Factor)",
+          "- Complement Tests",
+          "- C-Reactive Protein (CRP)",
+          "- Erythrocyte Sedimentation Rate (ESR)",
+          "- Antinuclear Antibody (ANA) Test",
+          "- HIV Test",
+          "- Allergy Tests (Skin Prick Test, IgE Test)",
+          "- Monospot Test"
+        ]
+      }
+    ]
+  }

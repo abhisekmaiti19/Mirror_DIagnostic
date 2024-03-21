@@ -1,0 +1,259 @@
+{
+    "data": [
+      {
+        "name": "AIVD HEALTH CARE BASIC",
+        "price": 1100,
+        "tests": [
+          "LIPID PROFILE - BASIC",
+          "KIDNEY FUNCTION TEST (KFT) -BASIC",
+          "LIVER FUNCTION TEST (LFT) - Extended",
+          "CALCIUM -SERUM"
+        ]
+      },
+      {
+        "name": "ANEMIA PROFILE -BASIC",
+        "price": 1800,
+        "tests": [
+          "COMPLETE BLOOD COUNT - CBC - WITH PERIPHERAL SMEAR",
+          "IRON",
+          "FOLATE - FOLIC ACID - SERUM",
+          "VITAMIN B12 : CYANOCOBALAMIN"
+        ]
+      },
+      {
+        "name": "ANTE NATAL PROFILE",
+        "price": 1400,
+        "tests": [
+          "COMPLETE BLOOD COUNT - CBC",
+          "BLOOD GROUP - ABO & Rh TYPING",
+          "BLOOD GLUCOSE - RANDOM",
+          "HEPATITIS B SURFACE ANTIGEN - HBsAg - ELISA",
+          "HEPATITIS C ANTIBODY - Anti HCV - ELISA",
+          "HIV 1 & 2 ANTIBODY - ELISA",
+          "RAPID PLASMA REAGIN (RPR TEST) -SYPHILIS",
+          "URINE EXAMINATION ROUTINE - CUE",
+          "THYROID STIMULATING HORMONE - TSH"
+        ]
+      },
+      {
+        "name": "ARTHRITIS PROFILE - ADVANCE",
+        "price": 3850,
+        "tests": [
+          "COMPLETE BLOOD COUNT - CBC",
+          "URIC ACID - SERUM",
+          "CRP - (C-REACTIVE PROTEIN) - QUANTITATIVE",
+          "ANTI STREPTOLYSIN - O (ASO) - QUALITATIVE",
+          "RHEUMATOID FACTOR (RA FACTOR) - QUANTITATIVE",
+          "ANTI CCP - ANTI CYCLIC CIRULLINATED PEPTIDE",
+          "ANTI NUCLEAR ANTIBODY/FACTOR (ANA/ANF)-ELISA",
+          "C3 - COMPLEMENT",
+          "C4 - COMPLEMENT"
+        ]
+      },
+      {
+        "name": "ARTHRITIS PROFILE BASIC",
+        "price": 1500,
+        "tests": [
+          "COMPLETE BLOOD COUNT - CBC",
+          "URIC ACID - SERUM",
+          "CRP - (C-REACTIVE PROTEIN) - QUANTITATIVE",
+          "ANTI STREPTOLYSIN - O (ASO) - QUANTITATIVE",
+          "RHEUMATOID FACTOR (RA FACTOR) - QUANTITATIVE"
+        ]
+      },
+      {
+        "name": "DUAL MARKER WITH GRAPH -(8 Wks-13.6 Wks)",
+        "price": 2500,
+        "tests": [
+          "PAPPA - (PREGNANCY ASSOCIATED PLASMA PROTEIN A)",
+          "BETA HCG - FREE"
+        ]
+      },
+      {
+        "name": "AIVD HEALTH CARE PROFILE-MEDIUM",
+        "price": 1800,
+        "tests": [
+          "CBC -(COMPLETE BLOOD COUNT)",
+          "ESR -(ERYTHROCYTE SEDIMENTATION RATE)",
+          "BLOOD GLUCOSE -FASTING",
+          "LIPID PROFILE - BASIC",
+          "LIVER FUNCTION TEST (LFT) - Extended",
+          "KIDNEY FUNCTION TEST (KFT) -BASIC",
+          "THYROID PROFILE - T3, T4 & TSH (TFT)",
+          "URINE EXAMINATION ROUTINE - CUE",
+          "IRON PROFILE - BASIC",
+          "GLYCOSYLATED HEMOGLOBIN -(HbA1c)"
+        ]
+      },
+      {
+        "name": "AIVD HEALTH CARE PROFILE-SMALL",
+        "price": 1200,
+        "tests": [
+          "CBC -(COMPLETE BLOOD COUNT)",
+          "ESR -(ERYTHROCYTE SEDIMENTATION RATE)",
+          "BLOOD GLUCOSE -FASTING",
+          "LIPID PROFILE - BASIC",
+          "LIVER FUNCTION TEST (LFT) - Extended",
+          "KIDNEY FUNCTION TEST (KFT) -BASIC",
+          "THYROID PROFILE - T3, T4 & TSH (TFT)",
+          "URINE EXAMINATION ROUTINE - CUE"
+        ]
+      },
+      {
+        "name": "AIVD HEALTH CARE PROFILE-SMART",
+        "price": 3000,
+        "tests": [
+          "CBC -(COMPLETE BLOOD COUNT)",
+          "ESR -(ERYTHROCYTE SEDIMENTATION RATE)",
+          "BLOOD GLUCOSE -FASTING",
+          "LIPID PROFILE - BASIC",
+          "LIVER FUNCTION TEST (LFT) - Extended",
+          "KIDNEY FUNCTION TEST (KFT) -BASIC",
+          "THYROID PROFILE - T3, T4 & TSH (TFT)",
+          "URINE EXAMINATION ROUTINE - CUE",
+          "IRON PROFILE - BASIC",
+          "GLYCOSYLATED HEMOGLOBIN -(HbA1c)",
+          "VITAMIN B12 : CYANOCOBALAMIN",
+          "VITAMIN D 25 - HYDROXY CHOLECALCIFEROL"
+        ]
+      },
+      {
+        "name": "AIVD HEALTH CARE PROFILE-ADVANCE",
+        "price": 3500,
+        "tests": [
+          "CBC -(COMPLETE BLOOD COUNT)",
+          "ESR -(ERYTHROCYTE SEDIMENTATION RATE)",
+          "LIPID PROFILE - BASIC",
+          "LIVER FUNCTION TEST (LFT) - Extended",
+          "KIDNEY FUNCTION TEST (KFT) -BASIC",
+          "THYROID PROFILE - T3, T4 & TSH (TFT)",
+          "URINE EXAMINATION ROUTINE - CUE",
+          "IRON PROFILE - BASIC",
+          "GLYCOSYLATED HEMOGLOBIN -(HbA1c)",
+          "VITAMIN B12 : CYANOCOBALAMIN",
+          "VITAMIN D 25 - HYDROXY CHOLECALCIFEROL",
+          "TESTOSTERONE TOTAL"
+        ]
+      },
+      {
+        "name": "AIVD HEALTH CARE PROFILE-COMPREHENSIVE",
+        "price": 4000,
+        "tests": [
+          "CBC -(COMPLETE BLOOD COUNT)",
+          "ESR -(ERYTHROCYTE SEDIMENTATION RATE)",
+          "BLOOD GLUCOSE -FASTING",
+          "LIPID PROFILE - BASIC",
+          "LIVER FUNCTION TEST (LFT) - Extended",
+          "KIDNEY FUNCTION TEST (KFT) -BASIC",
+          "THYROID PROFILE - T3, T4 & TSH (TFT)",
+          "URINE EXAMINATION ROUTINE - CUE",
+          "IRON PROFILE - BASIC",
+          "GLYCOSYLATED HEMOGLOBIN -(HbA1c)",
+          "VITAMIN B12 : CYANOCOBALAMIN",
+          "VITAMIN D 25 - HYDROXY CHOLECALCIFEROL",
+          "RHEUMATOID FACTOR -QUANTITATIVE (RA FACTOR)",
+          "CRP -(C-REACTIVE PROTEIN) QUANTITATIVE"
+        ]
+      },
+      {
+        "name": "INFERTILITY PROFILE BASIC",
+        "price": 1050,
+        "tests": [
+          "LH - LEUTINIZING HORMONE",
+          "FSH - FOLLICLE STIMULATING HORMONE",
+          "PROLACTIN - PRL"
+        ]
+      },
+      {
+        "name": "INFERTILITY PROFILE BASIC PLUS",
+        "price": 1250,
+        "tests": [
+          "LH - LEUTINIZING HORMONE",
+          "FSH - FOLLICLE STIMULATING HORMONE",
+          "PROLACTIN - PRL",
+          "THYROID STIMULATING HORMONE - TSH"
+        ]
+      },
+      {
+        "name": "QUADRA MARKER WITH GRAPH -(16 Wks-22.5 Wks)",
+        "price": 3250,
+        "tests": [
+          "PAPPA - (PREGNANCY ASSOCIATED PLASMA PROTEIN A)",
+          "BETA HCG - FREE",
+          "ALPHA FETO PROTEIN - AFP (MATERNAL)",
+          "INHIBIN A"
+        ]
+      },
+      {
+        "name": "TORCH 10 PROFILE - IgG & IgM",
+        "price": 2000,
+        "tests": [
+          "TOXOPLASMA GONDII ANTIBODY (TOXO-IGG)",
+          "TOXOPLASMA GONDII ANTIBODY (TOXO-IGM)",
+          "RUBELLA VIRUS ANTIBODY (RUB-IGG)",
+          "RUBELLA VIRUS ANTIBODY (RUB-IGM)",
+          "CYTOMEGALOVIRUS ANTIBODY (CMV-IGG)",
+          "CYTOMEGALOVIRUS ANTIBODY (CMV-IGM)",
+          "HERPES SIMPLEX VIRUS 1 (HSV 1-IGG)",
+          "HERPES SIMPLEX VIRUS 1 (HSV 1-IGM)",
+          "HERPES SIMPLEX VIRUS 2 (HSV 2-IGG)",
+          "HERPES SIMPLEX VIRUS 2 (HSV 2-IGM)"
+        ]
+      },
+      {
+        "name": "TORCH 4 PROFILE - IgG",
+        "price": 1000,
+        "tests": [
+          "TOXOPLASMA GONDII ANTIBODY (TOXO-IGG)",
+          "RUBELLA VIRUS ANTIBODY (RUB-IGG)",
+          "CYTOMEGALOVIRUS ANTIBODY (CMV-IGG)",
+          "HERPES SIMPLEX VIRUS 1&2 (HSV 1&2-IGG)"
+        ]
+      },
+      {
+        "name": "TORCH 4 PROFILE - IgM",
+        "price": 1000,
+        "tests": [
+          "TOXOPLASMA GONDII ANTIBODY (TOXO-IGM)",
+          "RUBELLA VIRUS ANTIBODY (RUB-IGM)",
+          "CYTOMEGALOVIRUS ANTIBODY (CMV-IGM)",
+          "HERPES SIMPLEX VIRUS 1&2 (HSV 1&2-IGM)"
+        ]
+      },
+      {
+        "name": "TORCH 8 PROFILE - IgG & IgM",
+        "price": 1600,
+        "tests": [
+          "TOXOPLASMA GONDII ANTIBODY (TOXO-IGG)",
+          "RUBELLA VIRUS ANTIBODY (RUB-IGG)",
+          "CYTOMEGALOVIRUS ANTIBODY (CMV-IGG)",
+          "HERPES SIMPLEX VIRUS 1&2 (HSV 1&2-IGG)",
+          "TOXOPLASMA GONDII ANTIBODY (TOXO-IGM)",
+          "RUBELLA VIRUS ANTIBODY (RUB-IGM)",
+          "CYTOMEGALOVIRUS ANTIBODY (CMV-IGM)",
+          "HERPES SIMPLEX VIRUS 1&2 (HSV 1&2-IGM)"
+        ]
+      },
+      {
+        "name": "TRIPLE MARKER WITH GRAPH -(14 Wks-15.5 Wks)",
+        "price": 1800,
+        "tests": [
+          "BETA HUMAN CHORIONIC GONODOTROPIN - BETA HCG",
+          "ALPHA FETO PROTEIN - AFP (MATERNAL)",
+          "ESTRIOL UNCONJUGATED / FREE (µE3)",
+          "BETA HUMAN CHORIONIC GONODOTROPIN - BETA HCG",
+          "ALPHA FETO PROTEIN - AFP (MATERNAL)",
+          "ESTRIOL UNCONJUGATED / FREE (µE3)"
+        ]
+      },
+      {
+        "name": "TRIPLE MARKER WITH GRAPH -(14 Wks-15.5 Wks)",
+        "price": 1800,
+        "tests": [
+          "BETA HUMAN CHORIONIC GONODOTROPIN - BETA HCG",
+          "ALPHA FETO PROTEIN - AFP (MATERNAL)",
+          "ESTRIOL UNCONJUGATED / FREE (µE3)"
+        ]
+      }
+    ]
+  }

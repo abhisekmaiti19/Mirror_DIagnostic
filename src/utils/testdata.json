@@ -1,0 +1,1159 @@
+
+{"data": [
+    {
+      "name": "17-ALPHA OH PROGESTERONE (17 OHP)",
+      "speciment": "SERUM",
+      "price": 1200
+    },
+    {
+      "name": "ACETYLCHOLINE RECEPTOR BINDING ANTIBODIES\n (ACHR)",
+      "speciment": "SERUM",
+      "price": 3400
+    },
+    {
+      "name": "ACTH -ADRENOCORTICOTROPIC HORMONE",
+      "speciment": "SERUM/WB EDTA",
+      "price": 1500
+    },
+    {
+      "name": "ACTIVATED PARTIAL THROMBOPLASTIN TIME (APTT)",
+      "speciment": "SODIUM CITRATE",
+      "price": 450
+    },
+    {
+      "name": "ADA (ADENOSINE DEAMINASE) -(SERUM)",
+      "speciment": "SERUM",
+      "price": 600
+    },
+    {
+      "name": "AFB (ZN-STAIN)",
+      "speciment": "ANY SPECIMEN",
+      "price": 170
+    },
+    {
+      "name": "AFB RAPID CULTURE -(BD BACTEC) MGIT",
+      "speciment": "ANY SPECIMEN",
+      "price": 1100
+    },
+    {
+      "name": "AFP (ALPHA FETO PROTEIN -MATERNAL)",
+      "speciment": "SERUM",
+      "price": 750
+    },
+    {
+      "name": "ALCOHOL/ETHANOL SCREENING -(SERUM)",
+      "speciment": "SERUM",
+      "price": 1000
+    },
+    {
+      "name": "ALCOHOL/ETHANOL SCREENING -(URINE)",
+      "speciment": "URINE",
+      "price": 1000
+    },
+    {
+      "name": "ALDOSTERONE -(24 Hrs. URINE)",
+      "speciment": "URINE",
+      "price": 2000
+    },
+    {
+      "name": "ALDOSTERONE -(SERUM)",
+      "speciment": "SERUM",
+      "price": 2000
+    },
+    {
+      "name": "ALLERGY -(WITHOUT DURGS -FOOD+INHALANT+NON\n VEG)",
+      "speciment": "SERUM",
+      "price": 5650
+    },
+    {
+      "name": "ALLERGY COMPREHENSIVE PANEL -\n (FOOD+INHALANT+NON VEG+DRUGS)",
+      "speciment": "SERUM",
+      "price": 6200
+    },
+    {
+      "name": "ALLERGY -DRUGS PANEL",
+      "speciment": "SERUM",
+      "price": 4650
+    },
+    {
+      "name": "ALLERGY -FOOD (FOOD+NON VEG)",
+      "speciment": "SERUM",
+      "price": 4650
+    },
+    {
+      "name": "ALLERGY -FOOD (VEG ONLY)",
+      "speciment": "SERUM",
+      "price": 3650
+    },
+    {
+      "name": "ALLERGY -INHALANT",
+      "speciment": "SERUM",
+      "price": 3650
+    },
+    {
+      "name": "ALLERGY -MILK",
+      "speciment": "SERUM",
+      "price": 1100
+    },
+    {
+      "name": "ALLERGY -WHEAT",
+      "speciment": "SERUM",
+      "price": 1100
+    },
+    {
+      "name": "ALLERGY -WITHOUT NON VEG -(VEG FOOD\n ONLY+INHALANT+DRUG)",
+      "speciment": "SERUM",
+      "price": 5600
+    },
+    {
+      "name": "ALLERGY -WITHOUT NON VEG & DRUG -(VEG FOOD ONLY+INHALANT)",
+      "speciment": "SERUM",
+      "price": 5500
+    },
+    {
+      "name": "AMH -(ANTI MULLERIAN HORMONE)",
+      "speciment": "SERUM",
+      "price": 1700
+    },
+    {
+      "name": "AMMONIA",
+      "speciment": "EDTA",
+      "price": 1000
+    },
+    {
+      "name": "AMOEBIC SEROLOGY IgG -(ENTAMOEBA HISTOLYTICA)",
+      "speciment": "SERUM",
+      "price": 1250
+    },
+    {
+      "name": "AMYLASE - SERUM",
+      "speciment": "SERUM",
+      "price": 400
+    },
+    {
+      "name": "ANA BLOT (ENA) -(QUALITATIVE)",
+      "speciment": "SERUM",
+      "price": 3800
+    },
+    {
+      "name": "ANA BLOT (ENA) -(QUANTITATIVE)",
+      "speciment": "SERUM",
+      "price": 6800
+    },
+    {
+      "name": "ANGIOTENSIN CONVERTING ENZYME -(ACE)",
+      "speciment": "SERUM",
+      "price": 900
+    },
+    {
+      "name": "ANTI CYCLIC CIRULLINATED PEPTIDE -(ANTI CCP)",
+      "speciment": "SERUM",
+      "price": 1200
+    },
+    {
+      "name": "ANTI NUCLEAR ANTIBODY -(ANA/ANF)",
+      "speciment": "SERUM",
+      "price": 700
+    },
+    {
+      "name": "ANTI NUCLEAR ANTIBODY -(ANA/ANF) -IFA",
+      "speciment": "SERUM",
+      "price": 1250
+    },
+    {
+      "name": "ANTI PHOSPHOLIPID ANTIBODY - APLA - IGG",
+      "speciment": "SERUM",
+      "price": 750
+    },
+    {
+      "name": "ANTI PHOSPHOLIPID ANTIBODY - APLA - IGM",
+      "speciment": "SERUM",
+      "price": 750
+    },
+    {
+      "name": "ANTI STREPTOLYSIN O (ASO TITRE -QUANTITATIVE)",
+      "speciment": "SERUM",
+      "price": 550
+    },
+    {
+      "name": "ANTI THROMBIN III",
+      "speciment": "SODIUM CITRATE",
+      "price": 2800
+    },
+    {
+      "name": "ANTI THYROGLOBULIN -(ATG)",
+      "speciment": "SERUM",
+      "price": 1200
+    },
+    {
+      "name": "ANTI TPO (THYROID PEROXIDASE) ANTIBODY",
+      "speciment": "SERUM",
+      "price": 1200
+    },
+    {
+      "name": "APOLIPOPROTEIN A1 -(APO-A)",
+      "speciment": "SERUM",
+      "price": 550
+    },
+    {
+      "name": "APOLIPOPROTEIN B -(APO-B)",
+      "speciment": "SERUM",
+      "price": 550
+    },
+    {
+      "name": "ASPERGILLUS ANTIBODY -(IGA)",
+      "speciment": "SERUM",
+      "price": 1700
+    },
+    {
+      "name": "ASPERGILLUS ANTIBODY -(IGE)",
+      "speciment": "SERUM",
+      "price": 1700
+    },
+    {
+      "name": "ASPERGILLUS ANTIBODY -(IGM)",
+      "speciment": "SERUM",
+      "price": 1700
+    },
+    {
+      "name": "BCR-ABL PCR -(QUALITATIVE)",
+      "speciment": "EDTA",
+      "price": 4800
+    },
+    {
+      "name": "BCR-ABL PCR -(QUANTITATIVE)",
+      "speciment": "EDTA",
+      "price": 5500
+    },
+    {
+      "name": "BETA 2 GLYCOPROTEIN 1 ANTIBODY -(IGA)",
+      "speciment": "SERUM",
+      "price": 1100
+    },
+    {
+      "name": "BETA 2 GLYCOPROTEIN 1 ANTIBODY -(IGG)",
+      "speciment": "SERUM",
+      "price": 1100
+    },
+    {
+      "name": "BETA 2 GLYCOPROTEIN 1 ANTIBODY -(IGM)",
+      "speciment": "SERUM",
+      "price": 1100
+    },
+    {
+      "name": "BETA 2 MICROGLOBULIN - SERUM",
+      "speciment": "SERUM",
+      "price": 1500
+    },
+    {
+      "name": "BETA 2 MICROGLOBULIN -(24 HOUR URINE)",
+      "speciment": "URINE",
+      "price": 1500
+    },
+    {
+      "name": "BETA HCG -(BETA HUMAN CHORIONIC GONODOTROPIN)",
+      "speciment": "SERUM",
+      "price": 600
+    },
+    {
+      "name": "BICARBONATES",
+      "speciment": "SERUM",
+      "price": 750
+    },
+    {
+      "name": "BILE ACID",
+      "speciment": "SERUM",
+      "price": 1500
+    },
+    {
+      "name": "BIOPSY - LARGE SPECIMEN (> 5CM) : Thyroid,Ovarian cyst,\n Uterus with\n unilateral/Bilateral adenexa & fibroid, TURP Chips (excess), Eye enucleation",
+      "speciment": "BIOPSY",
+      "price": 1500
+    },
+    {
+      "name": "BIOPSY- MEDIUM SPECIMEN (> 2 CM & UPTO 5 CM) : Gall\n Bladder, Sebaceous cyst, Lipoma, POC/Ectopic, fibroid, Prostate (turp\n chips), urinary bladder,salivary gland tumor, breast (lumpectomy)",
+      "speciment": "BIOPSY",
+      "price": 950
+    },
+    {
+      "name": "BIOPSY - SMALL SPECIMEN (< 2 CM) : : Endometrial\n curretings, Sinus,Fistula,Piles,Appendix,Check buccal & lip lessions,Tubectomy both\n slides,\n trucut biopsy(breast),Granulation tissue, Cyst wall,Lymph node,Ectopic/POC,Disc material",
+      "speciment": "BIOPSY",
+      "price": 700
+    },
+    {
+      "name": "C PEPTIDE-SERUM (FASTING)",
+      "speciment": "SERUM",
+      "price": 1050
+    },
+    {
+      "name": "C PEPTIDE-SERUM (PP)",
+      "speciment": "SERUM",
+      "price": 1050
+    },
+    {
+      "name": "C PEPTIDE-SERUM (RANDOM)",
+      "speciment": "SERUM",
+      "price": 1050
+    },
+    {
+      "name": "C3 - COMPLEMENT",
+      "speciment": "SERUM",
+      "price": 600
+    },
+    {
+      "name": "C4 - COMPLEMENT",
+      "speciment": "SERUM",
+      "price": 600
+    },
+    {
+      "name": "CA125 -(OVARIAN CANCER MARKER)",
+      "speciment": "SERUM",
+      "price": 850
+    },
+    {
+      "name": "CA15.3 -(BREAST CANCER MARKER)",
+      "speciment": "SERUM",
+      "price": 1250
+    },
+    {
+      "name": "CA19.9 -(PANCREATIC CANCER MARKER)",
+      "speciment": "SERUM",
+      "price": 1250
+    },
+    {
+      "name": "CA72.4 -(GASTRIC CANCER MARKER)",
+      "speciment": "SERUM",
+      "price": 1500
+    },
+    {
+      "name": "CARBAMAZEPINE -(TEGRETOL/MAZETOL/CARBATOL)",
+      "speciment": "SERUM",
+      "price": 800
+    },
+    {
+      "name": "CARDIOLIPIN ANTIBODY -(IgG)",
+      "speciment": "SERUM",
+      "price": 750
+    },
+    {
+      "name": "CARDIOLIPIN ANTIBODY -(IgM)",
+      "speciment": "SERUM",
+      "price": 750
+    },
+    {
+      "name": "CBC -(COMPLETE BLOOD COUNT)",
+      "speciment": "WB EDTA",
+      "price": 300
+    },
+    {
+      "name": "CD3/CD4/CD8 -(LYMPHOCYTE COUNT-IPT)",
+      "speciment": "WB EDTA",
+      "price": 2000
+    },
+    {
+      "name": "CEA -(CARCINO EMBRYONIC ANTIGEN)",
+      "speciment": "SERUM",
+      "price": 700
+    },
+    {
+      "name": "CERULOPLASMIN",
+      "speciment": "SERUM",
+      "price": 1100
+    },
+    {
+      "name": "CHROMOSOME ANALYSIS / KARYOTYPING -(BLOOD)",
+      "speciment": "SODIUM HEPARIN",
+      "price": 2800
+    },
+    {
+      "name": "COMPREHENSIVE NON INVASIVE PRENATAL TESTING - (NIPT-COMP)",
+      "speciment": "NIPT KIT",
+      "price": 18000
+    },
+    {
+      "name": "COOMBS TEST -DIRECT (DCT)",
+      "speciment": "WB EDTA",
+      "price": 450
+    },
+    {
+      "name": "COOMBS TEST -INDIRECT (ICT)",
+      "speciment": "SERUM",
+      "price": 450
+    },
+    {
+      "name": "CORTISOL LEVEL -(EVENING)",
+      "speciment": "SERUM",
+      "price": 550
+    },
+    {
+      "name": "CORTISOL LEVEL -(MORNING)",
+      "speciment": "SERUM",
+      "price": 550
+    },
+    {
+      "name": "CREATINE KINASE MB -(CPK-MB)",
+      "speciment": "SERUM",
+      "price": 450
+    },
+    {
+      "name": "CREATININE KINASE -(CPK)",
+      "speciment": "SERUM",
+      "price": 300
+    },
+    {
+      "name": "CRP -(C-REACTIVE PROTEIN) QUANTITATIVE",
+      "speciment": "SERUM",
+      "price": 400
+    },
+    {
+      "name": "CULTURE & SENSITIVITY -(BLOOD) 12 DRUGS",
+      "speciment": "SODIUM HEPARIN",
+      "price": 700
+    },
+    {
+      "name": "CULTURE & SENSITIVITY -(BLOOD) BD BACTEC/RAPID 12 DRUGS",
+      "speciment": "SODIUM HEPARIN",
+      "price": 980
+    },
+    {
+      "name": "CULTURE & SENSITIVITY -(PUS) 12 DRUGS",
+      "speciment": "PUS",
+      "price": 550
+    },
+    {
+      "name": "CULTURE & SENSITIVITY -(SEMEN) 12 DRUGS",
+      "speciment": "SEMEN",
+      "price": 550
+    },
+    {
+      "name": "CULTURE & SENSITIVITY -(SPUTUM) 12 DRUGS",
+      "speciment": "SPUTUM",
+      "price": 550
+    },
+    {
+      "name": "CULTURE & SENSITIVITY -(STOOL) 12 DRUGS",
+      "speciment": "STOOL",
+      "price": 550
+    },
+    {
+      "name": "CULTURE & SENSITIVITY -(SWAB) 12 DRUGS",
+      "speciment": "SWAB",
+      "price": 650
+    },
+    {
+      "name": "CULTURE & SENSITIVITY -(THROAT SWAB) 12 DRUGS",
+      "speciment": "THROAT SWAB",
+      "price": 550
+    },
+    {
+      "name": "CULTURE & SENSITIVITY -(URINE) 12 DRUGS",
+      "speciment": "URINE",
+      "price": 450
+    },
+    {
+      "name": "D DIMER -(QUANTITATIVE)",
+      "speciment": "SODIUM CITRATE",
+      "price": 1200
+    },
+    {
+      "name": "DENGUE ANTIBODY (IGG & IGM) -ELISA",
+      "speciment": "SERUM",
+      "price": 1500
+    },
+    {
+      "name": "DENGUE ANTIBODY (IGG) -ELISA",
+      "speciment": "SERUM",
+      "price": 800
+    },
+    {
+      "name": "DENGUE ANTIBODY (IGM) -ELISA",
+      "speciment": "SERUM",
+      "price": 800
+    },
+    {
+      "name": "DENGUE NS1 ANTIGEN -ELISA",
+      "speciment": "SERUM",
+      "price": 800
+    },
+    {
+      "name": "DHEAS -(DEHYDROEPIANDROSTERONE SULPHATE)",
+      "speciment": "SERUM",
+      "price": 900
+    },
+    {
+      "name": "DRUGS OF ABUSE -(10 DRUGS URINE SCREENING)",
+      "speciment": "URINE",
+      "price": 3550
+    },
+    {
+      "name": "DRUGS OF ABUSE -(6 DRUGS URINE SCREENING)",
+      "speciment": "URINE",
+      "price": 1800
+    },
+    {
+      "name": "DS DNA ANTIBODY",
+      "speciment": "SERUM",
+      "price": 850
+    },
+    {
+      "name": "ERYTHROPOIETIN -(EPO)",
+      "speciment": "SERUM",
+      "price": 1800
+    },
+    {
+      "name": "ESTRADIOL - E2",
+      "speciment": "SERUM",
+      "price": 550
+    },
+    {
+      "name": "FACTOR V FUNCTIONAL",
+      "speciment": "SODIUM CITRATE",
+      "price": 2850
+    },
+    {
+      "name": "FACTOR V LEIDEN MUTATION DETECTION",
+      "speciment": "SODIUM CITRATE",
+      "price": 5800
+    },
+    {
+      "name": "FACTOR VIII - Haemophilia A - FUNCTIONAL",
+      "speciment": "SODIUM CITRATE",
+      "price": 1680
+    },
+    {
+      "name": "FACTOR-IX - Haemophilia B - FUNCTIONAL",
+      "speciment": "SODIUM CITRATE",
+      "price": 1680
+    },
+    {
+      "name": "FECAL CALPROTECTIN",
+      "speciment": "STOOL",
+      "price": 3400
+    },
+    {
+      "name": "FECAL ELASTASE",
+      "speciment": "STOOL",
+      "price": 5800
+    },
+    {
+      "name": "FERRITIN",
+      "speciment": "SERUM",
+      "price": 600
+    },
+    {
+      "name": "FIBRINOGEN DEGRADATION PRODUCTS -(FDP)",
+      "speciment": "SODIUM CITRATE",
+      "price": 1000
+    },
+    {
+      "name": "FINE NEEDLE ASPIRATION (FNAC)",
+      "speciment": "SLIDE",
+      "price": 1000
+    },
+    {
+      "name": "FOLATE -(FOLIC ACID) SERUM",
+      "speciment": "SERUM / WB EDTA",
+      "price": 850
+    },
+    {
+      "name": "FSH -(FOLLICLE STIMULATING HORMONE)",
+      "speciment": "SERUM",
+      "price": 450
+    },
+    {
+      "name": "FUNGUS EXAMINATION ROUTINE -(KOH PREPARATION FOR FUNGAL ELEMENTS) WET MOUNT",
+      "speciment": "ANY SPECIMEN - EXCEPT BLOOD",
+      "price": 350
+    },
+    {
+      "name": "G6PD -(GLUCOSE 6 PHOSPHATE DEHYDROGENASE) QUANTITATIVE",
+      "speciment": "WB EDTA",
+      "price": 800
+    },
+    {
+      "name": "GENEXPERT TB (CB-NAAT)",
+      "speciment": "RESPIRATORY SPECIMENS/BODY FLIUD",
+      "price": 3200
+    },
+    {
+      "name": "GLYCOSYLATED HEMOGLOBIN -(HbA1c)",
+      "speciment": "WB EDTA",
+      "price": 450
+    },
+    {
+      "name": "GRAM STAIN",
+      "speciment": "ANY SPECIMEN -\n EXCEPT BLOOD",
+      "price": 200
+    },
+    {
+      "name": "HAEMOGLOBIN ELECTROPHORESIS (HbA2) - HPLC",
+      "speciment": "WB EDTA",
+      "price": 800
+    },
+    {
+      "name": "HEPATITIS A ANTIBODY -Anti HAV- IGG",
+      "speciment": "SERUM",
+      "price": 900
+    },
+    {
+      "name": "HEPATITIS A ANTIBODY -Anti HAV- IGM",
+      "speciment": "SERUM",
+      "price": 900
+    },
+    {
+      "name": "HEPATITIS B CORE ANTIBODY -Anti HBc-IgM",
+      "speciment": "SERUM",
+      "price": 800
+    },
+    {
+      "name": "HEPATITIS B CORE ANTIBODY -Anti HBc-TOTAL",
+      "speciment": "SERUM",
+      "price": 800
+    },
+    {
+      "name": "HEPATITIS B ENVELOPE ANTIBODY -Anti HBe",
+      "speciment": "SERUM",
+      "price": 800
+    },
+    {
+      "name": "HEPATITIS B ENVELOPE ANTIGEN -HBeAg",
+      "speciment": "SERUM",
+      "price": 800
+    },
+    {
+      "name": "HEPATITIS B SURFACE ANTIBODY -ANTI HBs",
+      "speciment": "SERUM",
+      "price": 800
+    },
+    {
+      "name": "HEPATITIS B SURFACE ANTIGEN -(HBsAg) ELISA",
+      "speciment": "SERUM",
+      "price": 500
+    },
+    {
+      "name": "HEPATITIS B VIRUS -PCR -(QUANTITATIVE)",
+      "speciment": "WB EDTA",
+      "price": 5000
+    },
+    {
+      "name": "HEPATITIS C ANTIBODY -(Anti HCV)- ELISA",
+      "speciment": "SERUM",
+      "price": 750
+    },
+    {
+      "name": "HEPATITIS C VIRUS -PCR-(QUANTITATIVE)",
+      "speciment": "WB EDTA",
+      "price": 5000
+    },
+    {
+      "name": "HEPATITIS E ANTIBODY - Anti HEV-IGG",
+      "speciment": "SERUM",
+      "price": 1300
+    },
+    {
+      "name": "HEPATITIS E ANTIBODY - Anti HEV-IGM",
+      "speciment": "SERUM",
+      "price": 1300
+    },
+    {
+      "name": "HIV 1&2 ANTIBODIES -WESTERN BLOT",
+      "speciment": "SERUM",
+      "price": 2500
+    },
+    {
+      "name": "HIV 1&2 ANTIBODY -ELISA",
+      "speciment": "SERUM",
+      "price": 500
+    },
+    {
+      "name": "HIV -QUANTITATIVE (VIRAL LOAD) PCR",
+      "speciment": "WB EDTA",
+      "price": 4800
+    },
+    {
+      "name": "HLA B-27 - PCR",
+      "speciment": "WB EDTA",
+      "price": 2500
+    },
+    {
+      "name": "HLA B27 -FLOW CYTOMETRY",
+      "speciment": "WB EDTA",
+      "price": 1800
+    },
+    {
+      "name": "HOMA -IR - (INSULIN RESISTANCE INDEX)",
+      "speciment": "SERUM & SODIUM FLOURIDE",
+      "price": 900
+    },
+    {
+      "name": "HOMOCYSTEINE",
+      "speciment": "SERUM",
+      "price": 900
+    },
+    {
+      "name": "HsCRP - HIGH SENSITIVE CRP",
+      "speciment": "SERUM",
+      "price": 650
+    },
+    {
+      "name": "HUMAN PAPILOMA VIRUS (16&18) DNA BY REAL TIME PCR",
+      "speciment": "SWABS/CERVICAL BIOPSY/TISSUE",
+      "price": 2080
+    },
+    {
+      "name": "IMMUNOGLOBULIN A - IgA",
+      "speciment": "SERUM",
+      "price": 550
+    },
+    {
+      "name": "IMMUNOGLOBULIN G - IgG",
+      "speciment": "SERUM",
+      "price": 550
+    },
+    {
+      "name": "IMMUNOGLOBULIN M - IgM",
+      "speciment": "SERUM",
+      "price": 550
+    },
+    {
+      "name": "INSULIN - FASTING",
+      "speciment": "SERUM",
+      "price": 650
+    },
+    {
+      "name": "INSULIN - PP (POST PRANDIAL)",
+      "speciment": "SERUM",
+      "price": 650
+    },
+    {
+      "name": "INSULIN - RANDOM",
+      "speciment": "SERUM",
+      "price": 800
+    },
+    {
+      "name": "IONIZED -CALCIUM",
+      "speciment": "SERUM",
+      "price": 500
+    },
+    {
+      "name": "IRON DEFICIENCY PROFILE",
+      "speciment": "AS INDIVIDUAL",
+      "price": 850
+    },
+    {
+      "name": "IRON PROFILE - BASIC",
+      "speciment": "AS INDIVIDUAL",
+      "price": 600
+    },
+    {
+      "name": "KIDNEY FUNCTION TEST (KFT) -BASIC",
+      "speciment": "AS INDIVIDUAL",
+      "price": 600
+    },
+    {
+      "name": "LACTATE -PLASMA",
+      "speciment": "SODIUM FLOURIDE",
+      "price": 950
+    },
+    {
+      "name": "LDH (LACTIC ACID DEHYDEROGENASE) -SERUM",
+      "speciment": "SERUM",
+      "price": 350
+    },
+    {
+      "name": "LH -LEUTINIZING HORMONE",
+      "speciment": "SERUM",
+      "price": 450
+    },
+    {
+      "name": "LIPASE",
+      "speciment": "SERUM",
+      "price": 600
+    },
+    {
+      "name": "LIPID PROFILE - BASIC",
+      "speciment": "AS INDIVIDUAL",
+      "price": 600
+    },
+    {
+      "name": "LIQUID BASED CYTOLOGY -(LBC) PAP SMEAR",
+      "speciment": "LBC KIT",
+      "price": 950
+    },
+    {
+      "name": "LITHIUM -LI",
+      "speciment": "SERUM",
+      "price": 350
+    },
+    {
+      "name": "LIVER FUNCTION TEST (LFT) - Extended",
+      "speciment": "AS INDIVIDUAL",
+      "price": 600
+    },
+    {
+      "name": "LUPUS ANTICOAGULANT -LAC",
+      "speciment": "SODIUM CITRATE",
+      "price": 1400
+    },
+    {
+      "name": "MAGNESIUM-SERUM",
+      "speciment": "SERUM",
+      "price": 500
+    },
+    {
+      "name": "MALARIA VIVAX AND FALCIPARUM ANTIGEN",
+      "speciment": "WB EDTA",
+      "price": 450
+    },
+    {
+      "name": "MALIGNANT CELLS - FLUID",
+      "speciment": "ANY FLUID",
+      "price": 500
+    },
+    {
+      "name": "MICROALBUMIN - URINE RANDOM",
+      "speciment": "URINE",
+      "price": 500
+    },
+    {
+      "name": "MICROALBUMIN / CREATININE RATIO -SPOT",
+      "speciment": "URINE",
+      "price": 600
+    },
+    {
+      "name": "MICROFILARIA ANTIBODY",
+      "speciment": "SERUM",
+      "price": 1200
+    },
+    {
+      "name": "MICROFILARIA ANTIGEN",
+      "speciment": "SERUM/WB SODIUM HEPARIN",
+      "price": 900
+    },
+    {
+      "name": "MPO ANTIBODY -(P-ANCA)",
+      "speciment": "SERUM",
+      "price": 1500
+    },
+    {
+      "name": "MYCOBACTERIUM TUBERCULOSIS DNA PCR - QUALITATIVE",
+      "speciment": "WB EDTA/BAL/CSF/TISS U E",
+      "price": 1800
+    },
+    {
+      "name": "MYOGLOBIN - SERUM",
+      "speciment": "SERUM",
+      "price": 2500
+    },
+    {
+      "name": "NT-PRO BNP -(NTERMINAL PRO B TYPE NATRIURETIC PEPTIDE)",
+      "speciment": "SERUM",
+      "price": 2980
+    },
+    {
+      "name": "OSMOLALITY - SERUM",
+      "speciment": "SERUM",
+      "price": 700
+    },
+    {
+      "name": "OSMOLALITY - URINE",
+      "speciment": "URINE",
+      "price": 700
+    },
+    {
+      "name": "PAP SMEAR -(CYTOLOGY)",
+      "speciment": "SLIDE",
+      "price": 500
+    },
+    {
+      "name": "PARATHYROID HORMONE - PTH -INTACT",
+      "speciment": "SERUM",
+      "price": 1500
+    },
+    {
+      "name": "PHENYTOIN (DILANTIN/EPTOIN/EPSOLIN) - DRUG ASSAY",
+      "speciment": "SERUM",
+      "price": 900
+    },
+    {
+      "name": "PR3 ANTOBODY -(C-ANCA)",
+      "speciment": "SERUM",
+      "price": 1500
+    },
+    {
+      "name": "PROCALCITONIN -(PCT)",
+      "speciment": "SERUM",
+      "price": 3100
+    },
+    {
+      "name": "PROGESTERONE",
+      "speciment": "SERUM",
+      "price": 650
+    },
+    {
+      "name": "PROLACTIN -(PRL)",
+      "speciment": "SERUM",
+      "price": 450
+    },
+    {
+      "name": "PROTEIN C -FUNCTIONAL",
+      "speciment": "SODIUM CITRATE",
+      "price": 3600
+    },
+    {
+      "name": "PROTEIN ELECTROPHORESIS -SERUM",
+      "speciment": "SERUM",
+      "price": 800
+    },
+    {
+      "name": "PROTEIN S - FUNCTIONAL",
+      "speciment": "SODIUM CITRATE",
+      "price": 3600
+    },
+    {
+      "name": "PROTHROMBIN TIME -PT (INR)",
+      "speciment": "SODIUM CITRATE",
+      "price": 250
+    },
+    {
+      "name": "PSA -(PROSTATE SPECIFIC ANTIGEN) -FREE",
+      "speciment": "SERUM",
+      "price": 900
+    },
+    {
+      "name": "PSA -(PROSTATE SPECIFIC ANTIGEN) -TOTAL",
+      "speciment": "SERUM",
+      "price": 650
+    },
+    {
+      "name": "QUADRA MARKER WITH GRAPH -(16 Wks-22.5 Wks)",
+      "speciment": "AS INDIVIDUAL",
+      "price": 3250
+    },
+    {
+      "name": "RAPID PLASMA REAGIN (RPR TEST) -SYPHILIS",
+      "speciment": "SERUM",
+      "price": 150
+    },
+    {
+      "name": "RETICULOCYTE COUNT",
+      "speciment": "WB EDTA",
+      "price": 250
+    },
+    {
+      "name": "RHEUMATOID FACTOR -QUANTITATIVE (RA FACTOR)",
+      "speciment": "SERUM",
+      "price": 550
+    },
+    {
+      "name": "ROTAVIRUS ANTIGEN-STOOL",
+      "speciment": "STOOL",
+      "price": 850
+    },
+    {
+      "name": "RUBELLA VIRUS ANTIBODY (RUB-IGG)",
+      "speciment": "SERUM",
+      "price": 550
+    },
+    {
+      "name": "RUBELLA VIRUS ANTIBODY (RUB-IGM)",
+      "speciment": "SERUM",
+      "price": 550
+    },
+    {
+      "name": "SERUM ASCITES ALBUMIN GRADIENT -(SAAG)",
+      "speciment": "SERUM",
+      "price": 600
+    },
+    {
+      "name": "SHBG -SEX HORMONE BINDING GLOBULIN",
+      "speciment": "SERUM",
+      "price": 2050
+    },
+    {
+      "name": "STONE ANALYSIS",
+      "speciment": "STONE",
+      "price": 1050
+    },
+    {
+      "name": "STONE ANALYSIS -(GALL BLADDER)",
+      "speciment": "STONE",
+      "price": 1050
+    },
+    {
+      "name": "STOOL - pH & REDUCING SUBSTANCES",
+      "speciment": "STOOL",
+      "price": 150
+    },
+    {
+      "name": "STOOL EXAMINATION - HANGING DROP PREPARATION",
+      "speciment": "STOOL",
+      "price": 150
+    },
+    {
+      "name": "STOOL EXAMINATION ROUTINE -STOOL R/E",
+      "speciment": "STOOL",
+      "price": 100
+    },
+    {
+      "name": "STOOL EXAMINATION FOR CRYPTOSPORIDIUM - IDENTIFICATION",
+      "speciment": "STOOL",
+      "price": 300
+    },
+    {
+      "name": "STOOL -OCCULT BLOOD",
+      "speciment": "STOOL",
+      "price": 150
+    },
+    {
+      "name": "TACROLIMUS - DRUG ASSAY",
+      "speciment": "WB EDTA",
+      "price": 3800
+    },
+    {
+      "name": "TB Platinum - IGRA",
+      "speciment": "WB LITHIUM\n HEPARIN",
+      "price": 2250
+    },
+    {
+      "name": "TESTOSTERONE FREE - HORMONE",
+      "speciment": "SERUM",
+      "price": 1100
+    },
+    {
+      "name": "TESTOSTERONE TOTAL",
+      "speciment": "SERUM",
+      "price": 600
+    },
+    {
+      "name": "THYROID PROFILE - T3, T4 & TSH (TFT)",
+      "speciment": "AS INDIVIDUAL",
+      "price": 550
+    },
+    {
+      "name": "THYROID PROFILE FREE : FT3, FT4 & TSH (FTFT)",
+      "speciment": "AS INDIVIDUAL",
+      "price": 700
+    },
+    {
+      "name": "THYROID STIMULATING HORMONE - TSH",
+      "speciment": "SERUM",
+      "price": 300
+    },
+    {
+      "name": "THYROXINE FREE - FT4",
+      "speciment": "SERUM",
+      "price": 300
+    },
+    {
+      "name": "THYROXINE TOTAL - T4",
+      "speciment": "SERUM",
+      "price": 250
+    },
+    {
+      "name": "TISSUE TRANSGLUTAMINASE ANTIBODY -IGA (TTG IgA)",
+      "speciment": "SERUM",
+      "price": 1200
+    },
+    {
+      "name": "TOTAL IGE",
+      "speciment": "SERUM",
+      "price": 650
+    },
+    {
+      "name": "TOXOPLASMA GONDII ANTIBODY (TOXO-IGG)",
+      "speciment": "SERUM",
+      "price": 550
+    },
+    {
+      "name": "TOXOPLASMA GONDII ANTIBODY (TOXO-IGM)",
+      "speciment": "SERUM",
+      "price": 550
+    },
+    {
+      "name": "TPHA -(TREPONEMA PALLIDUM HAEMAGGIUTINATION)",
+      "speciment": "SERUM",
+      "price": 600
+    },
+    {
+      "name": "TRIODOTHYRONINE FREE -FT3",
+      "speciment": "SERUM",
+      "price": 300
+    },
+    {
+      "name": "TRIODOTHYRONINE TOTAL -T3",
+      "speciment": "SERUM",
+      "price": 250
+    },
+    {
+      "name": "TROPONIN - I",
+      "speciment": "SERUM",
+      "price": 1100
+    },
+    {
+      "name": "TROPONIN - T",
+      "speciment": "WB EDTA",
+      "price": 1100
+    },
+    {
+      "name": "TUBERCULOSIS - GAMMA INTERFERON -\n QUANTIFERON(TB)",
+      "speciment": "WB LITHIUM\n HEPARIN",
+      "price": 2050
+    },
+    {
+      "name": "TYPHIDOT- IGG (SALMONELLA TYPHI)",
+      "speciment": "SERUM",
+      "price": 400
+    },
+    {
+      "name": "TYPHIDOT- IGM & IGG (SALMONELLA TYPHI)",
+      "speciment": "SERUM",
+      "price": 600
+    },
+    {
+      "name": "TYPHIDOT- IGM (SALMONELLA TYPHI)",
+      "speciment": "SERUM",
+      "price": 400
+    },
+    {
+      "name": "URINE EXAMINATION ROUTINE -(CUE)",
+      "speciment": "URINE",
+      "price": 100
+    },
+    {
+      "name": "VALPROIC ACID (SODIUM VALPROATE)",
+      "speciment": "SERUM",
+      "price": 950
+    },
+    {
+      "name": "VANILMANDELIC ACID -(VMA) 24 Hrs URINE",
+      "speciment": "URINE",
+      "price": 3250
+    },
+    {
+      "name": "VANILMANDELIC ACID -(VMA) URINE RANDOM",
+      "speciment": "URINE",
+      "price": 3250
+    },
+    {
+      "name": "VITAMIN B12 : CYANOCOBALAMIN",
+      "speciment": "SERUM",
+      "price": 800
+    },
+    {
+      "name": "VITAMIN D 25 - HYDROXY CHOLECALCIFEROL",
+      "speciment": "SERUM",
+      "price": 1200
+    },
+    {
+      "name": "WIDAL -SLIDE AGGLUTINATION",
+      "speciment": "SERUM",
+      "price": 120
+    },
+    {
+      "name": "WIDAL -TUBE AGGLUTINATION",
+      "speciment": "SERUM",
+      "price": 200
+    }
+  ]
+}

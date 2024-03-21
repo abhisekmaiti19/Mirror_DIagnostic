@@ -1,0 +1,71 @@
+{
+    "data":[
+        {
+            "name":"Smart Bharat (Super 1)",
+             "tests":[
+                "Sugar Fasting",
+                "KFT Mini Profile",
+                "Liver Function",
+                "Lipid Profile",
+                "Thyroid Profile Total"
+                
+             ]
+             ,
+             "price":599
+        },
+        {
+            "name":"Smart Bharat (Super 2)",
+             "tests":[
+                "Sugar Fasting",
+                "KFT Mini Profile",
+                "Liver Function",
+                "Lipid Profile",
+                "Thyroid Profile Total",
+                "Calcium",
+                "CBC",
+                "ESR",
+                "HBA1C"
+             ]
+             ,
+             "price":1099
+        },
+        {
+            "name":"Smart Bharat (Super 3)",
+             "tests":[
+                "Sugar Fasting",
+                "KFT Mini Profile",
+                "Liver Function",
+                "Lipid Profile",
+                "Thyroid Profile Total",
+                "Vitamin B12",
+                "Vitamin D3",
+                "CBC",
+                "ESR",
+                "HBA1C"
+             ]
+             ,
+             "price":1599
+        }
+        ,
+        {
+            "name":"Smart Bharat (Super 4)",
+             "tests":[
+                "Sugar Fasting",
+                "KFT Mini Profile",
+                "Liver Function",
+                "Lipid Profile",
+                "Thyroid Profile Total",
+                "Iron Profile",
+                "Calcium",
+                "Vitamin B12",
+                "Vitamin D3",
+                "Testoterone Total",
+                "CBC",
+                "ESR",
+                "HBA1C"
+             ]
+             ,
+             "price":1999
+        }
+    ]
+}
