@@ -1,6 +1,6 @@
 // import footer from "../../assets/footer.png";
 import { NavLink } from "react-router-dom";
-import mirror from "../../assets/mirror.png";
+import novo from "../../assets/novo.png";
 import Inquery from "../sections/Inquery";
 
 export default function Mainfooter() {
@@ -13,7 +13,7 @@ export default function Mainfooter() {
       </div>
       <div className="w-full flex max-w-screen-xxl max-md:flex-col justify-between gap-[4rem]  pt-[8rem] px-[8rem]">
         <div className="w-[32rem] max-[450px]:w-full text-[1.5rem] leading-tight text-white  flex flex-col gap-[4rem] items-start">
-          <img src={mirror} className="" alt="" />
+          <img src={novo} className=" opacity-50" alt="" />
           <p>
             Welcome to Mirror Diagnostics, your trusted partner in healthcare
             located in Kota. We are proud to be ISO certified, ensuring that our
@@ -59,8 +59,8 @@ export default function Mainfooter() {
               Contact Us
             </h1>
             <ul className="flex flex-col gap-[1rem]">
-              <li>Plot No. 570 Near Kharoliwal Hospital, Kota(Raj.) 324001</li>
-              <li>+919509700711</li>
+              <li>Hire me : {") ->"} visit abhisekmaiti.dev</li>
+              <li>+9647775335</li>
             </ul>
           </div>
         </div>
@@ -85,10 +85,10 @@ export default function Mainfooter() {
               Build with ♥ by{" "}
               <a
                 className="hover:cursor-pointer hover:opacity-50 font-bold"
-                href="http://synthetico.ai"
+                href="http://abhisekmaiti.dev"
                 target="_blank"
               >
-                Synthetico.ai
+                abhisekmaiti.dev
               </a>
             </li>
             <li>All rights reserved</li>

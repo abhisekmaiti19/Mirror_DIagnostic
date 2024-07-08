@@ -102,7 +102,7 @@ export default function Contact() {
           </p>
           <div className="google-maps rounded-xl  shadow-xl [@media(min-width:700px)]:w-[50rem] [@media(min-width:1200px)]:h-[40rem] [@media(max-width:700px)]:h-[45rem] [@media(max-width:700px)]:w-full">
             <iframe
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3610.1881748303745!2d75.85125017596005!3d25.196875831712603!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x396f9ae20cb0d165%3A0xa1526dfee72a093b!2sKharoliwal%20Hospital!5e0!3m2!1sen!2sin!4v1710287035045!5m2!1sen!2sin"
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d117925.33439927742!2d88.34735275!3d22.53542735!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39f882db4908f667%3A0x43e330e68f6c2cbc!2sKolkata%2C%20West%20Bengal!5e0!3m2!1sen!2sin!4v1720463981484!5m2!1sen!2sin"
               allowfullscreen=""
               loading="lazy"
               referrerPolicy="no-referrer-when-downgrade"

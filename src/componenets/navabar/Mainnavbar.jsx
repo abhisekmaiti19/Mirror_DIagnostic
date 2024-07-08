@@ -69,7 +69,7 @@ export default function Navbar() {
             />
           </svg>
           <h1 className="flex flex-col justify-start items-start text-[14px]">
-            <span className="font-bold text-[18px]">+91-9509700711</span>
+            <span className="font-bold text-[18px]">+91-9647775335</span>
             Call us to book now
           </h1>
         </div>
